@@ -46,3 +46,10 @@ The Vault contract is deployed on the same Subnet as the ERC20 contract, creatin
 
 ## License
 
+Both contracts are licensed under the MIT License. See the individual contract files for more details.
+
+## Author 
+
+pravenn 
+
+pp055319@gmail.com
